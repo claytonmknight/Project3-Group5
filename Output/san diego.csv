@@ -1,4 +1,4 @@
-Demand,Date/Time,City,Unix Time
+demand,date_time,city,unix_time
 2023.0,2018-07-01 01:00:00,san diego,1530432000
 1896.0,2018-07-01 02:00:00,san diego,1530435600
 18507.0,2018-07-01 03:00:00,san diego,1530439200
