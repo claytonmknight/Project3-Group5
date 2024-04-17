@@ -24,3 +24,4 @@ We have found a dataset from July 2018 through May 2020 that contains informatio
 ##Table Screenshots## (folder)
 ##nyc_climate_combined screenshot below. It was used the same Data Engineering process for all other cities##
 
+![nyc_climate_combined](https://github.com/claytonmknight/Project3-Group5/assets/152826034/57688754-1637-4869-b8d7-375d9108d680)
