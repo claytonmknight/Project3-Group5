@@ -15,6 +15,9 @@ We have found a dataset from July 2018 through May 2020 that contains informatio
 ##ETL_code screenshot ## (folder)
 ##Pandas DataFrame/Python ( Original Datase transformed prior to storing in the database) Screenshot below:
 
+<img width="1032" alt="Screenshot 2024-04-17 160921" src="https://github.com/claytonmknight/Project3-Group5/assets/152826034/c0eea755-b144-407b-9564-99e177ebbecf">
+
+
 
 # Dataset stored in SQL (Postgre SQL)
 
