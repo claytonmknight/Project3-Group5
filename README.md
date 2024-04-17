@@ -12,7 +12,12 @@ We have found a dataset from July 2018 through May 2020 that contains informatio
 
 # Data cleaning and sources:
 
-##ETL_code screenshot ## 
-##Pandas DataFrame/Python ( Original Datase transformed prior to storing in the database) 
+##ETL_code screenshot ## (folder)
+##Pandas DataFrame/Python ( Original Datase transformed prior to storing in the database) Screenshot below:
 
+
+# Dataset stored in SQL (Postgre SQL)
+
+##Table Screenshots## (folder)
+##nyc_climate_combined screenshot below. It was used the same Data Engineering process for all other cities##
 
