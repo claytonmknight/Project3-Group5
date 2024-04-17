@@ -14,4 +14,6 @@ We have found a dataset from July 2018 through May 2020 that contains informatio
 
 ##ETL_code screenshot ## 
 ##Pandas DataFrame/Python ( Original Datase transformed prior to storing in the database) 
- 
+
+
+ <img width="1032" alt="Screenshot 2024-04-17 160921" src="https://github.com/claytonmknight/Project3-Group5/assets/152826034/eee95c64-53da-4e97-bb3a-d0f68c218aea">
