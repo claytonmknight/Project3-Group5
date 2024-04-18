@@ -31,10 +31,8 @@ The project workflow includes:
 ### ETL Code Screenshot
 ![ETL Code Screenshot](https://github.com/claytonmknight/Project3-Group5/assets/152826034/c0eea755-b144-407b-9564-99e177ebbecf)
 
-### Pandas DataFrame/Python (Original Dataset Transformed Prior to Storing in the Database) Screenshot
-*See folder: "ETL_code screenshot"*
-
-We utilized PostgreSQL to store the data in a relational database format. Each output CSV file was transformed into a table within the database, and the tables were connected based on the Unix timestamps.
+### Pandas DataFrame/Python (Original Dataset Transformed Prior to Storing in the Database) Screenshots
+See `ETL_code screenshot` Folder
 
 ## PostgreSQL Integration
 After processing and transforming the data, we stored it in a PostgreSQL database to facilitate relational analysis. Each output CSV file was imported into the database, with each file corresponding to a separate table. We established connections between these tables based on the Unix timestamps, allowing for efficient querying and analysis across multiple dimensions. This relational structure enables us to explore relationships between electricity usage, city climate, and other factors with greater flexibility and depth.
