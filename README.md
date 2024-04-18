@@ -4,7 +4,7 @@
 ## Participants
 - Austin DeVore
 - Clayton Knight
-- Gabriella Kruger
+- Gabby Kruger
 - Wanderson Oliveira
 
 ## Overview
